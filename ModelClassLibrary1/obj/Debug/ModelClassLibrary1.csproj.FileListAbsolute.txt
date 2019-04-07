@@ -1,0 +1,6 @@
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\ModelClassLibrary1\bin\Debug\ModelClassLibrary1.dll
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\ModelClassLibrary1\bin\Debug\ModelClassLibrary1.pdb
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\ModelClassLibrary1\obj\Debug\ModelClassLibrary1.csprojAssemblyReference.cache
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\ModelClassLibrary1\obj\Debug\ModelClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\ModelClassLibrary1\obj\Debug\ModelClassLibrary1.dll
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\ModelClassLibrary1\obj\Debug\ModelClassLibrary1.pdb

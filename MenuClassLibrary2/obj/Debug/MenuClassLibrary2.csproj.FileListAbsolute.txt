@@ -1,0 +1,6 @@
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\MenuClassLibrary2\bin\Debug\MenuClassLibrary2.dll
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\MenuClassLibrary2\bin\Debug\MenuClassLibrary2.pdb
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\MenuClassLibrary2\obj\Debug\MenuClassLibrary2.csprojAssemblyReference.cache
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\MenuClassLibrary2\obj\Debug\MenuClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\MenuClassLibrary2\obj\Debug\MenuClassLibrary2.dll
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\MenuClassLibrary2\obj\Debug\MenuClassLibrary2.pdb

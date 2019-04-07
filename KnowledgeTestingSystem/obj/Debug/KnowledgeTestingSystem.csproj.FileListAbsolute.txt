@@ -1,0 +1,12 @@
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\KnowledgeTestingSystem\bin\Debug\KnowledgeTestingSystem.exe.config
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\KnowledgeTestingSystem\bin\Debug\KnowledgeTestingSystem.exe
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\KnowledgeTestingSystem\bin\Debug\KnowledgeTestingSystem.pdb
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\KnowledgeTestingSystem\bin\Debug\MenuClassLibrary2.dll
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\KnowledgeTestingSystem\bin\Debug\ModelClassLibrary1.dll
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\KnowledgeTestingSystem\bin\Debug\MenuClassLibrary2.pdb
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\KnowledgeTestingSystem\bin\Debug\ModelClassLibrary1.pdb
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\KnowledgeTestingSystem\obj\Debug\KnowledgeTestingSystem.csprojAssemblyReference.cache
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\KnowledgeTestingSystem\obj\Debug\KnowledgeTestingSystem.csproj.CoreCompileInputs.cache
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\KnowledgeTestingSystem\obj\Debug\KnowledgeTestingSystem.csproj.CopyComplete
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\KnowledgeTestingSystem\obj\Debug\KnowledgeTestingSystem.exe
+C:\Users\MAX\source\repos\KnowledgeTestingSystem\KnowledgeTestingSystem\obj\Debug\KnowledgeTestingSystem.pdb
